@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+I am a student at University of Washington.
+
+I am a Graduate student at the Department AOf Mechanical Engineering.
